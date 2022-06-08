@@ -57,6 +57,13 @@ body {
     margin-left: 12rem;
 }
 
+.centerimg{
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 .titres2 {
     display: flex;
 
